@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Isyraf Zakil",
+    "occupation": "Software Engineer @ Avanade, Web Developer @ Mail-Boy",
+    "description": "Interested in App Development & AI. Aspiring React Specialist.",
+    "image": "Profile_Isyraf.jpeg",
+    "bio": "My name is Isyraf, I'm a Software Engineer and  Web Developer. Currently I'm working full time at Avanade and part time at Mail-Boy ",
+    "contactmessage": "Feel free to connect with me, I'll be more happy to network.",
+    "email": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/isyraf-zakil/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/isyrafzakil",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full stack development",
+    "education": [
+      {
+        "school": "The Ohio State University",
+        "degree": "Bachelor of Science in Electrical & Computer Engineering",
+        "graduated": "May 2018",
+        "description": "Computer Engineering Program of Study"
+      }
+    ],
+    "work": [
+      {
+        "company": "Avanade",
+        "title": "Software Engineer",
+        "years": "July 2018 - Present",
+        "description": "Senior Analyst"
+      },
+      {
+        "company": "Mail-Boy",
+        "title": "Web Developer",
+        "years": "August 2020 - Present",
+        "description": "React & Rails Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "5%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": ".NET",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Isyraf is easy to work with.",
+        "user": "Mav Salazar"
+      },
+      {
+        "text": "You're a very dedicated & curious person who would just start right away to work on something that interests you",
+        "user": "Shima Haida"
+      }
+    ]
+  }
+}
