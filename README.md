@@ -2,7 +2,7 @@
 
 [See it live here:](https://react-isyraf.netlify.app/)
 
-[Screenshot](resume-screenshot.png)
+![Screenshot](resume-screenshot.png)
 
 ## TODO:
 
@@ -15,7 +15,7 @@
 
 ## Credits
 
-Template by CleverProgrammer
+Template by [CleverProgrammer](https://github.com/CleverProgrammers/react-portfolio)
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
