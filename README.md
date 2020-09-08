@@ -1,5 +1,9 @@
 # My React portfolio
 
+[See it live here:](https://react-isyraf.netlify.app/)
+
+[Screenshot](resume-screenshot.png)
+
 ## TODO:
 
 - Amazon Clone
