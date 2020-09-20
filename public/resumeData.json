@@ -122,9 +122,15 @@
     "projects": [
       {
         "title": "Amazon Clone",
-        "category": "Amazon Clone built with ReactJS",
+        "category": "Amazon Clone built with ReactJS, NodeJS, Firebase & Stripe API",
         "image": "amazon-clone.PNG",
         "url": "https://clone-ba764.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN Stack",
+        "image": "whatsapp-clone.PNG",
+        "url": "https://whatsapp-mern-eba17.web.app/"
       }
     ]
   },
